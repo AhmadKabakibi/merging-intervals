@@ -1,0 +1,14 @@
+{
+  "name": "merging-intervals",
+  "version": "1.0.0",
+  "description": "Merging intervals problem",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a.kabakibi <ahmadkbakibi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
