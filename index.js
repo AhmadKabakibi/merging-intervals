@@ -34,7 +34,6 @@ function intervals(intervals, mergeInterval) {
     } else if (action === ACTIONS.REMOVED) {
       console.log("output => " + output);
     }
-
     lines++;
   });
 
